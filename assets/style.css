@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+    background-color: black;
+    padding: 30px 20px;
+    margin-bottom: 50px;
+    top: 1%;
+}
+.btnContraste{
+    float: left;
+    padding: 1px;
+}
+.btnFuente{
+    float: right;
+    padding: 1px;
+}
+#tituloheader{
+    font-size: 40px;
+    color: white;
+}
+
+#form{
+    text-align: center;
+    box-shadow: 0 0 20px;
+    width: 40%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px 0px;
+}
+
+input,label{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+}
+
+label{
+    margin: auto;
+}
+input{
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.noDisplay{
+    display: none;
+    color: red;
+}
+
+.header2{
+    background-color: grey;
+
+}
+
+.cambiofuente1{
+    font-size: 100px;
+    color: aqua;
+}
+.cambiofuente2{
+    font-size: 50px;
+    color: rgb(72, 255, 0);
+}
